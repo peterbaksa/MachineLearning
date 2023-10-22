@@ -8,7 +8,7 @@ Method of Linear Regression fits the curve upon training data to best fit the di
 Linear in the naming of method determines that the base of this method is to find the linear curve to fit the goal.
 
 Curve equation: 
-### y = w.x + b
+### y = a.x + c
 where:<br>
 - x - is value on x axis
 - a - defines slope
