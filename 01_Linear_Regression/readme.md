@@ -24,7 +24,7 @@ In machine learning we use this version:
 
 To measure the cost of goal is the MSR (Mean Squared Error) function the most used. 
 
-<img src="/readme_imgs/MSE.png" alt="MSE image" width="300" height="auto">
+<img src="https://raw.githubusercontent.com/peterbaksa/MachineLearning/main/01_Linear_Regression/readme_imgs/MSE.png" alt="MSE image" width="300" height="auto">
 
 
 
