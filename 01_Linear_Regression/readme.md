@@ -26,6 +26,11 @@ To measure the cost of goal is the MSR (Mean Squared Error) function the most us
 
 <img src="https://raw.githubusercontent.com/peterbaksa/MachineLearning/main/01_Linear_Regression/readme_imgs/MSE.png" alt="MSE image" width="300" height="auto">
 
+From which:
+- Yi = predicted Y for x-i input parameter. This means Yi = F(xi) = w.xi + b
+- Y(hat)i - is real - output parameter for xi input parameter
+- n - is count of all input parameters
+
 
 
 
