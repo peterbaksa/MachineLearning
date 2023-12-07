@@ -3,3 +3,5 @@ matplotlib
 IPython
 pandas
 seaborn
+category_encoders
+sklearn
