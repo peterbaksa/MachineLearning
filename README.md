@@ -40,11 +40,12 @@ feature engineering, feature scaling and visualizations.
 - Explains base of regularization of Polynomial Linear Regression and importance of lambda parameter
 
 ## 2. Data preprocessing
+
 [1. Scaling and Normalization](02_Data_preprocessing/01_scaling_and_normalization/readme.md)
--
+- Explains scaling and normalization methods of preprocessing data before work on ML model
 
 [2. Encoding](02_Data_preprocessing/02_encoding/readme.md)
--
+- Explains encoding techniques to change data types of model data to numbers - readable by model
 
 ## 3 Classification - Logistic regression
 [1. Base of logistic regression](03_Classification/01_logistic_regression/01_base_of_logistic_regression/readme.md)
