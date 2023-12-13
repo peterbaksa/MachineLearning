@@ -29,8 +29,29 @@ feature engineering, feature scaling and visualizations.
 [6. Vectorization](01_Linear_Regression/06_vectorization/readme.md)
 - Explains how to appli vectorization on 1 feature model, 2 features model and multiple feature model + 
  computing speed compare: of non vectorized and vectorized model
+
 [7. Feature engineering](01_Linear_Regression/07_feature_engineering/readme.md)
+- Explains important of feature engineering - preprocessing work on input data - add new features and remove unnecessary once 
+
+[8. Polynomial Logistic regression](01_Linear_Regression/08_Polynomial_logistic_regression/readme.md)
+- Explains linear regression using polynomial function instead of straight line function as model of Linear Regression
+
+[9. Regularization of Linear Regression](01_Linear_Regression/09_Regularization_of_linear_regression/readme.md)
+- Explains base of regularization of Polynomial Linear Regression and importance of lambda parameter
 
 ## 2. Data preprocessing
+[1. Scaling and Normalization](02_Data_preprocessing/01_scaling_and_normalization/readme.md)
+-
+
+[2. Encoding](02_Data_preprocessing/02_encoding/readme.md)
+-
 
 ## 3 Classification - Logistic regression
+[1. Base of logistic regression](03_Classification/01_logistic_regression/01_base_of_logistic_regression/readme.md)
+- Contains model, cost function, gradient descent, training and visualization <br>
+
+[2. Polynomial Logistic regression](03_Classification/01_logistic_regression/02_polynomial_regression/readme.md)
+- Explains Logistic regression using polynomial model function, instead of using straight line function
+
+[3. Regularization of Logistic Regression](03_Classification/01_logistic_regression/03_regularization_od_logistic_regression/readme.md)
+- Explains base of regularization of Polynomial Logistic Regression and importance of lambda parameter 
