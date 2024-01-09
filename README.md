@@ -1,12 +1,22 @@
 # Machine Learning project 
-This project contains and will be updated for all machine learning techniques that I learned and practiced in 
+This project contains (and will be updated for) all machine learning techniques that I learned and practiced in 
 python language. Most of them will be written as Jupyter Notebooks to better demonstrate how they work and there is
 also more space to write readable and student friendly notes/pictures/videos..
 
 ### Current projects:
+## [1. Linear Regression](#linear-regression)
+## [2. Data preprocessing](#data-preprocessing)
+## [3. Classification](#classification)
+## [4. Neural Networks](#neural-networks)
+## [5. Decision trees](#decision-trees)
+## [6. Unsupervised Learning](#unsupervised-learning)
+## [7. Reinforcement Learning](#reinforcement-learning)
+## [7. Genetics algorithms](#genetics-algorithms)
 
-## 1. Linear Regression 
-Check the sub-projetct project [Linear Regression](01_Linear_Regression/readme.md)
+----------------------------------
+
+## Linear Regression
+Check the sub-project project [Linear Regression](01_Linear_Regression/readme.md)
 
 This project contains explanation of Linear Regression. Starting from base model to model with vectorisation, 
 feature engineering, feature scaling and visualizations.
@@ -39,7 +49,7 @@ feature engineering, feature scaling and visualizations.
 [9. Regularization of Linear Regression](01_Linear_Regression/09_Regularization_of_linear_regression/readme.md)
 - Explains base of regularization of Polynomial Linear Regression and importance of lambda parameter
 
-## 2. Data preprocessing
+## Data preprocessing
 
 [1. Scaling and Normalization](02_Data_preprocessing/01_scaling_and_normalization/readme.md)
 - Explains scaling and normalization methods of preprocessing data before work on ML model
@@ -47,7 +57,7 @@ feature engineering, feature scaling and visualizations.
 [2. Encoding](02_Data_preprocessing/02_encoding/readme.md)
 - Explains encoding techniques to change data types of model data to numbers - readable by model
 
-## 3. Classification - Logistic regression
+## Classification
 [1. Base of logistic regression](03_Classification/01_logistic_regression/01_base_of_logistic_regression/readme.md)
 - Contains model, cost function, gradient descent, training and visualization <br>
 
@@ -57,6 +67,12 @@ feature engineering, feature scaling and visualizations.
 [3. Regularization of Logistic Regression](03_Classification/01_logistic_regression/03_regularization_od_logistic_regression/readme.md)
 - Explains base of regularization of Polynomial Logistic Regression and importance of lambda parameter 
 
-## 4. Neural Networks
+## Neural Networks
 
-## 5. Decition Trees
+## Decision Trees
+
+## Reinforcement Learning
+
+## Unsupervised Learning
+
+## Genetics algorithms
