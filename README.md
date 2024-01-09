@@ -47,7 +47,7 @@ feature engineering, feature scaling and visualizations.
 [2. Encoding](02_Data_preprocessing/02_encoding/readme.md)
 - Explains encoding techniques to change data types of model data to numbers - readable by model
 
-## 3 Classification - Logistic regression
+## 3. Classification - Logistic regression
 [1. Base of logistic regression](03_Classification/01_logistic_regression/01_base_of_logistic_regression/readme.md)
 - Contains model, cost function, gradient descent, training and visualization <br>
 
@@ -56,3 +56,7 @@ feature engineering, feature scaling and visualizations.
 
 [3. Regularization of Logistic Regression](03_Classification/01_logistic_regression/03_regularization_od_logistic_regression/readme.md)
 - Explains base of regularization of Polynomial Logistic Regression and importance of lambda parameter 
+
+## 4. Neural Networks
+
+## 5. Decition Trees
